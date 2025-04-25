@@ -1,0 +1,71 @@
+DataDigger recompile as of 21-09-2018
+
+List of current files:
+
+File name                      File date  Expected            Status
+------------------------------ ---------- ------------------- --------------------
+dAbout.r                       21-09-2018 2018-09-21 14:51:14
+dAbout.w                       18-09-2018 2018-09-18 09:40:32
+DataDigger.i                   21-09-2018 2018-09-21 13:30:20
+DataDigger.p                   21-09-2018 2018-09-21 14:51:00 File modified
+DataDigger.r                   21-09-2018 2018-09-21 14:51:14
+DataDigger-FC.p                20-09-2018 2018-09-20 12:40:32
+DataDigger-FC.r                21-09-2018 2018-09-21 14:51:15
+DataDiggerLib.p                21-09-2018 2018-09-21 13:54:22
+DataDiggerLib.r                21-09-2018 2018-09-21 14:51:15
+dDump.r                        21-09-2018 2018-09-21 14:51:15
+dDump.w                        18-09-2018 2018-09-18 09:39:24
+dFilter.r                      21-09-2018 2018-09-21 14:51:15
+dFilter.w                      18-09-2018 2018-09-18 09:39:14
+dQueries.r                     21-09-2018 2018-09-21 14:51:15
+dQueries.w                     18-09-2018 2018-09-18 09:39:10
+dQuestion.r                    21-09-2018 2018-09-21 14:51:15
+dQuestion.w                    05-10-2010 2010-10-05 15:21:50
+dSettings.r                    21-09-2018 2018-09-21 14:51:15
+dSettings.w                    18-09-2018 2018-09-18 09:39:08
+frLoad.i                       10-11-2010 2010-11-10 09:33:16
+frLoadChooseFile.r             21-09-2018 2018-09-21 14:51:15
+frLoadChooseFile.w             18-09-2018 2018-09-18 09:39:04
+frLoadImport.r                 21-09-2018 2018-09-21 14:51:15
+frLoadImport.w                 18-09-2018 2018-09-18 09:39:00
+frLoadMapping.r                21-09-2018 2018-09-21 14:51:15
+frLoadMapping.w                18-09-2018 2018-09-18 09:38:54
+frLoadSettings.r               21-09-2018 2018-09-21 14:51:15
+frLoadSettings.w               18-09-2018 2018-09-18 09:38:46
+myDump.p                       18-09-2018 2018-09-18 09:38:10
+myDump.r                       21-09-2018 2018-09-21 14:51:15
+statusMessage.i                21-09-2018 2018-09-21 10:19:30
+wConnections.r                 21-09-2018 2018-09-21 14:51:15
+wConnections.w                 18-09-2018 2018-09-18 09:38:04
+wDataDigger.r                  21-09-2018 2018-09-21 14:51:15
+wDataDigger.w                  21-09-2018 2018-09-21 13:55:46
+wEdit.r                        21-09-2018 2018-09-21 14:51:15
+wEdit.w                        21-09-2018 2018-09-21 14:48:15
+wLoadData.r                    21-09-2018 2018-09-21 14:51:15
+wLoadData.w                    18-09-2018 2018-09-18 09:37:12
+
+Deleting old .r files
+
+Recompiling
+Compiling: c:\app\dev\tools\datadigger-V9\dAbout.w
+Compiling: c:\app\dev\tools\datadigger-V9\DataDigger.p
+WARNING: RETURN statement in user defined function 'isRecompileNeeded' is missing a return value expression. At runtime it will return the unknown value. (2750)
+Compiling: c:\app\dev\tools\datadigger-V9\DataDigger-FC.p
+Compiling: c:\app\dev\tools\datadigger-V9\DataDiggerLib.p
+Compiling: c:\app\dev\tools\datadigger-V9\dDump.w
+Compiling: c:\app\dev\tools\datadigger-V9\dFilter.w
+Compiling: c:\app\dev\tools\datadigger-V9\dQueries.w
+Compiling: c:\app\dev\tools\datadigger-V9\dQuestion.w
+Compiling: c:\app\dev\tools\datadigger-V9\dSettings.w
+Compiling: c:\app\dev\tools\datadigger-V9\frLoadChooseFile.w
+Compiling: c:\app\dev\tools\datadigger-V9\frLoadImport.w
+Compiling: c:\app\dev\tools\datadigger-V9\frLoadMapping.w
+Compiling: c:\app\dev\tools\datadigger-V9\frLoadSettings.w
+Compiling: c:\app\dev\tools\datadigger-V9\myDump.p
+Compiling: c:\app\dev\tools\datadigger-V9\wConnections.w
+Compiling: c:\app\dev\tools\datadigger-V9\wDataDigger.w
+WARNING: More than 1 action code segment used in c:\app\dev\tools\datadigger-V9\wDataDigger.r. (9430)
+Compiling: c:\app\dev\tools\datadigger-V9\wEdit.w
+Compiling: c:\app\dev\tools\datadigger-V9\wLoadData.w
+
+All files successfully compiled.
